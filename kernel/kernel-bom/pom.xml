@@ -42,7 +42,7 @@
         <jwt.version> 3.8.1</jwt.version>
         <jwks-rsa-version>0.18.0</jwks-rsa-version>
 
-        <logstash-logback-encoder-version>6.4</logstash-logback-encoder-version>
+        <logstash-logback-encoder-version>6.6</logstash-logback-encoder-version>
 
         <powermock.version>2.0.9</powermock.version>
 
